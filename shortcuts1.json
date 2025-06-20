@@ -4,6 +4,11 @@
       "id": "testAct",
       "type": "ExecuteFunction",
       "name": "TEST"
+    },
+    {
+      "id": "testAct2",
+      "type": "ExecuteFunction",
+      "name": "TEST2"
     }
   ],
   "shortcuts": [
@@ -11,6 +16,12 @@
       "action": "testAct",
       "key": {
         "default": "Ctrl+R"
+      }
+    },
+    {
+      "action": "testAct2",
+      "key": {
+        "default": "Ctrl+T"
       }
     }
   ]
