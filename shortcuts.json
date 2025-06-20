@@ -1,0 +1,17 @@
+{
+  "actions": [
+    {
+      "id": "TestConflict",
+      "type": "ExecuteFunction",
+      "name": "Test the conflict dialog FUUUUUUUCK"
+    }
+  ],
+  "shortcuts": [
+    {
+      "action": "TestConflict",
+      "key": {
+        "default": "Ctrl+R"
+      }
+    }
+  ]
+}
