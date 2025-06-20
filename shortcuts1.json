@@ -6,12 +6,41 @@
       "name": "TEST"
     },
     {
-      "id": "testAct2",
+      "id": "ShowTaskpane",
       "type": "ExecuteFunction",
-      "name": "TEST2"
+      "name": "Show task pane"
+    },
+    {
+      "id": "HideTaskpane",
+      "type": "ExecuteFunction",
+      "name": "Hide task pane"
+    },
+    {
+      "id": "cycleBGColor",
+      "type": "ExecuteFunction",
+      "name": "Cycle Background Color"
+    },
+    {
+      "id": "cycleFontColor",
+      "type": "ExecuteFunction",
+      "name": "Cycle Font Color"
+    },
+    {
+      "id": "cycleBorderColor",
+      "type": "ExecuteFunction",
+      "name": "Cycle Border Color"
     }
   ],
   "shortcuts": [
+    {
+      "action": "ShowTaskpane",
+      "key": {
+        "default": "Ctrl+Alt+\\",
+        "mac": "Command+Shift+\\",
+        "web": "Ctrl+Alt+\\",
+        "windows": "Ctrl+Alt+\\"
+      }
+    },
     {
       "action": "testAct",
       "key": {
@@ -19,9 +48,39 @@
       }
     },
     {
-      "action": "testAct2",
+      "action": "HideTaskpane",
       "key": {
-        "default": "Ctrl+T"
+        "default": "Ctrl+Alt+E",
+        "mac": "Command+Shift+E",
+        "web": "Ctrl+Alt+2",
+        "windows": "Ctrl+Alt+Up"
+      }
+    },
+    {
+      "action": "cycleBGColor",
+      "key": {
+        "default": "Ctrl+Alt+B",
+        "mac": "Command+Shift+B",
+        "web": "Ctrl+Alt+B",
+        "windows": "Ctrl+Alt+B"
+      }
+    },
+    {
+      "action": "cycleFontColor",
+      "key": {
+        "default": "Ctrl+Alt+F",
+        "mac": "Command+Shift+F",
+        "web": "Ctrl+Alt+F",
+        "windows": "Ctrl+Alt+F"
+      }
+    },
+    {
+      "action": "cycleBorderColor",
+      "key": {
+        "default": "Ctrl+Alt+R",
+        "mac": "Command+Shift+R",
+        "web": "Ctrl+Alt+R",
+        "windows": "Ctrl+Alt+R"
       }
     }
   ]
