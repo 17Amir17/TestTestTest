@@ -36,7 +36,7 @@
       "action": "ShowTaskpane",
       "key": {
         "default": "Ctrl+Alt+\\",
-        "mac": "Command+Shift+\\",
+        "mac": "Cmd+Shift+\\",
         "web": "Ctrl+Alt+\\",
         "windows": "Ctrl+Alt+\\"
       }
@@ -51,7 +51,7 @@
       "action": "HideTaskpane",
       "key": {
         "default": "Ctrl+Alt+E",
-        "mac": "Command+Shift+E",
+        "mac": "Cmd+Shift+E",
         "web": "Ctrl+Alt+2",
         "windows": "Ctrl+Alt+Up"
       }
@@ -60,7 +60,7 @@
       "action": "cycleBGColor",
       "key": {
         "default": "Ctrl+Alt+B",
-        "mac": "Command+Shift+B",
+        "mac": "Cmd+Shift+B",
         "web": "Ctrl+Alt+B",
         "windows": "Ctrl+Alt+B"
       }
@@ -69,7 +69,7 @@
       "action": "cycleFontColor",
       "key": {
         "default": "Ctrl+Alt+F",
-        "mac": "Command+Shift+F",
+        "mac": "Cmd+Shift+F",
         "web": "Ctrl+Alt+F",
         "windows": "Ctrl+Alt+F"
       }
@@ -78,7 +78,7 @@
       "action": "cycleBorderColor",
       "key": {
         "default": "Ctrl+Alt+R",
-        "mac": "Command+Shift+R",
+        "mac": "Cmd+Shift+R",
         "web": "Ctrl+Alt+R",
         "windows": "Ctrl+Alt+R"
       }
