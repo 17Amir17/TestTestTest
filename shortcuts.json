@@ -1,86 +1,148 @@
 {
   "actions": [
     {
-      "id": "testAct",
+      "id": "GeneralNumberCycle",
       "type": "ExecuteFunction",
-      "name": "TEST"
+      "name": "General Number Cycle"
     },
     {
-      "id": "ShowTaskpane",
+      "id": "DateCycle",
       "type": "ExecuteFunction",
-      "name": "Show task pane"
+      "name": "Date Cycle"
     },
     {
-      "id": "HideTaskpane",
+      "id": "LocalCurrencyCycle",
       "type": "ExecuteFunction",
-      "name": "Hide task pane"
+      "name": "Local Currency Cycle"
     },
     {
-      "id": "cycleBGColor",
+      "id": "ForeignCurrencyCycle",
       "type": "ExecuteFunction",
-      "name": "Cycle Background Color"
+      "name": "Foreign Currency Cycle"
     },
     {
-      "id": "cycleFontColor",
+      "id": "PercentCycle",
       "type": "ExecuteFunction",
-      "name": "Cycle Font Color"
+      "name": "Percent Cycle"
     },
     {
-      "id": "cycleBorderColor",
+      "id": "MultipleCycle",
       "type": "ExecuteFunction",
-      "name": "Cycle Border Color"
+      "name": "Multiple Cycle"
+    },
+    {
+      "id": "BinaryCycle",
+      "type": "ExecuteFunction",
+      "name": "Binary Cycle"
+    },
+    {
+      "id": "BlueBlackToggle",
+      "type": "ExecuteFunction",
+      "name": "Blue-Black Toggle"
+    },
+    {
+      "id": "FontColorCycle",
+      "type": "ExecuteFunction",
+      "name": "Font Color Cycle"
+    },
+    {
+      "id": "FillColorCycle",
+      "type": "ExecuteFunction",
+      "name": "Fill Color Cycle"
+    },
+    {
+      "id": "BorderColorCycle",
+      "type": "ExecuteFunction",
+      "name": "Border Color Cycle"
     }
   ],
   "shortcuts": [
     {
-      "action": "ShowTaskpane",
+      "action": "GeneralNumberCycle",
       "key": {
-        "default": "Ctrl+Alt+\\",
-        "mac": "Cmd+Shift+\\",
-        "web": "Ctrl+Alt+\\",
-        "windows": "Ctrl+Alt+\\"
+        "default": "Ctrl+Shift+1",
+        "mac": "Command+Shift+1",
+        "web": "Ctrl+Shift+1"
       }
     },
     {
-      "action": "testAct",
+      "action": "DateCycle",
       "key": {
-        "default": "Ctrl+R"
+        "default": "Ctrl+Shift+2",
+        "mac": "Command+Shift+2",
+        "web": "Ctrl+Shift+2"
       }
     },
     {
-      "action": "HideTaskpane",
+      "action": "LocalCurrencyCycle",
       "key": {
-        "default": "Ctrl+Alt+E",
-        "mac": "Cmd+Shift+E",
-        "web": "Ctrl+Alt+2",
-        "windows": "Ctrl+Alt+Up"
+        "default": "Ctrl+Shift+4",
+        "mac": "Command+Shift+4",
+        "web": "Ctrl+Shift+4"
       }
     },
     {
-      "action": "cycleBGColor",
+      "action": "ForeignCurrencyCycle",
       "key": {
-        "default": "Ctrl+Alt+B",
-        "mac": "Cmd+Shift+B",
-        "web": "Ctrl+Alt+B",
-        "windows": "Ctrl+Alt+B"
+        "default": "Alt+Shift+4",
+        "mac": "Option+Shift+4",
+        "web": "Alt+Shift+4"
       }
     },
     {
-      "action": "cycleFontColor",
+      "action": "PercentCycle",
       "key": {
-        "default": "Ctrl+Alt+F",
-        "mac": "Cmd+Shift+F",
-        "web": "Ctrl+Alt+F",
-        "windows": "Ctrl+Alt+F"
+        "default": "Ctrl+Shift+5",
+        "mac": "Command+Shift+5",
+        "web": "Ctrl+Shift+5"
       }
     },
     {
-      "action": "cycleBorderColor",
+      "action": "MultipleCycle",
       "key": {
-        "default": "Ctrl+Alt+R",
-        "mac": "Cmd+Shift+R",
-        "web": "Ctrl+Alt+R",
-        "windows": "Ctrl+Alt+R"
+        "default": "Alt+Shift+M",
+        "mac": "Option+Shift+M",
+        "web": "Alt+Shift+M"
+      }
+    },
+    {
+      "action": "BinaryCycle",
+      "key": {
+        "default": "Ctrl+Shift+Y",
+        "mac": "Command+Shift+Y",
+        "web": "Ctrl+Shift+Y"
+      }
+    },
+    {
+      "action": "BlueBlackToggle",
+      "key": {
+        "default": "Ctrl+Alt+K",
+        "mac": "Command+Option+K",
+        "web": "Ctrl+Alt+K"
+      }
+    },
+    {
+      "action": "FontColorCycle",
+      "key": {
+        "default": "Alt+Shift+F",
+        "mac": "Option+Shift+F",
+        "web": "Alt+Shift+F"
+      }
+    },
+    {
+      "action": "FillColorCycle",
+      "key": {
+        "default": "Alt+Shift+K",
+        "mac": "Option+Shift+K",
+        "web": "Alt+Shift+K"
+      }
+    },
+    {
+      "action": "BorderColorCycle",
+      "key": {
+        "default": "Alt+Shift+B",
+        "mac": "Option+Shift+B",
+        "web": "Alt+Shift+B"
       }
     }
   ]
