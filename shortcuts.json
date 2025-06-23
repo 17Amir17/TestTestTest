@@ -108,9 +108,9 @@
     {
       "action": "BinaryCycle",
       "key": {
-        "default": "Ctrl+Shift+Y",
-        "mac": "Command+Shift+Y",
-        "web": "Ctrl+Shift+Y"
+        "default": "Ctrl+Alt+Shift+Y",
+        "mac": "Command+Option+Shift+Y",
+        "web": "Ctrl+Alt+Shift+Y"
       }
     },
     {
