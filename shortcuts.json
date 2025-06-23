@@ -76,9 +76,9 @@
     {
       "action": "LocalCurrencyCycle",
       "key": {
-        "default": "Ctrl+Shift+4",
-        "mac": "Command+Shift+4",
-        "web": "Ctrl+Shift+4"
+        "default": "Ctrl+Alt+Shift+4",
+        "mac": "Command+Option+Shift+4",
+        "web": "Ctrl+Alt+Shift+4"
       }
     },
     {
@@ -92,9 +92,9 @@
     {
       "action": "PercentCycle",
       "key": {
-        "default": "Ctrl+Shift+5",
-        "mac": "Command+Shift+5",
-        "web": "Ctrl+Shift+5"
+        "default": "Ctrl+Alt+Shift+5",
+        "mac": "Command+Option+Shift+5",
+        "web": "Ctrl+Alt+Shift+5"
       }
     },
     {
