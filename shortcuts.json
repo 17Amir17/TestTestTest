@@ -54,6 +54,16 @@
       "id": "BorderColorCycle",
       "type": "ExecuteFunction",
       "name": "Border Color Cycle"
+    },
+    {
+      "id": "IncreaseFont",
+      "type": "ExecuteFunction",
+      "name": "Increase Font"
+    },
+    {
+      "id": "DecreaseFont",
+      "type": "ExecuteFunction",
+      "name": "Decrease Font"
     }
   ],
   "shortcuts": [
@@ -143,6 +153,22 @@
         "default": "Alt+Shift+B",
         "mac": "Option+Shift+B",
         "web": "Alt+Shift+B"
+      }
+    },
+    {
+      "action": "IncreaseFont",
+      "key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "Command+Shift+F",
+        "web": "Ctrl+Shift+F"
+      }
+    },
+    {
+      "action": "DecreaseFont",
+      "key": {
+        "default": "Ctrl+Shift+G",
+        "mac": "Command+Shift+G",
+        "web": "Ctrl+Shift+G"
       }
     }
   ]
