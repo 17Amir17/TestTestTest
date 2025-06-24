@@ -36,6 +36,11 @@
       "name": "Binary Cycle"
     },
     {
+      "id": "FootnoteCycle",
+      "type": "ExecuteFunction",
+      "name": "Footnote Cycle"
+    },
+    {
       "id": "BlueBlackToggle",
       "type": "ExecuteFunction",
       "name": "Blue-Black Toggle"
@@ -105,6 +110,14 @@
         "default": "Ctrl+Alt+Shift+5",
         "mac": "Command+Option+Shift+5",
         "web": "Ctrl+Alt+Shift+5"
+      }
+    },
+    {
+      "action": "FootnoteCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+6",
+        "mac": "Command+Option+Shift+6",
+        "web": "Ctrl+Alt+Shift+6"
       }
     },
     {
