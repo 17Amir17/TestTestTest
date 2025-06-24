@@ -232,7 +232,7 @@
       "action": "FontCycle",
       "key": {
         "default": "Ctrl+Shift+Y",
-        "mac": "Command+Option+Shift+Y",
+        "mac": "Option+Shift+Y",
         "web": "Ctrl+Shift+Y"
       }
     }
