@@ -69,6 +69,16 @@
       "id": "DecreaseFont",
       "type": "ExecuteFunction",
       "name": "Decrease Font"
+    },
+    {
+      "id": "WrapText",
+      "type": "ExecuteFunction",
+      "name": "Wrap Text"
+    },
+    {
+      "id": "RemoveGridlines",
+      "type": "ExecuteFunction",
+      "name": "Remove Gridlines"
     }
   ],
   "shortcuts": [
@@ -181,6 +191,22 @@
       "key": {
         "default": "Ctrl+Shift+G",
         "mac": "Command+Option+Shift+G",
+        "web": "Ctrl+Shift+G"
+      }
+    },
+    {
+      "action": "WrapText",
+      "key": {
+        "default": "Ctrl+Shift+W",
+        "mac": "Command+Option+Shift+W",
+        "web": "Ctrl+Shift+W"
+      }
+    },
+    {
+      "action": "RemoveGridlines",
+      "key": {
+        "default": "Ctrl+Shift+G",
+        "mac": "Option+Shift+G",
         "web": "Ctrl+Shift+G"
       }
     }
