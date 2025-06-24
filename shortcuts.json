@@ -159,7 +159,7 @@
       "action": "IncreaseFont",
       "key": {
         "default": "Ctrl+Shift+F",
-        "mac": "Command+Shift+F",
+        "mac": "Command+Option+Shift+F",
         "web": "Ctrl+Shift+F"
       }
     },
@@ -167,7 +167,7 @@
       "action": "DecreaseFont",
       "key": {
         "default": "Ctrl+Shift+G",
-        "mac": "Command+Shift+G",
+        "mac": "Command+Option+Shift+G",
         "web": "Ctrl+Shift+G"
       }
     }
