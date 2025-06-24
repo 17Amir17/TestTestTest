@@ -79,6 +79,16 @@
       "id": "RemoveGridlines",
       "type": "ExecuteFunction",
       "name": "Remove Gridlines"
+    },
+    {
+      "id": "FontSizeCycle",
+      "type": "ExecuteFunction",
+      "name": "Font Size Cycle"
+    },
+    {
+      "id": "FontCycle",
+      "type": "ExecuteFunction",
+      "name": "Font Cycle"
     }
   ],
   "shortcuts": [
@@ -208,6 +218,22 @@
         "default": "Ctrl+Shift+G",
         "mac": "Option+Shift+G",
         "web": "Ctrl+Shift+G"
+      }
+    },
+    {
+      "action": "FontSizeCycle",
+      "key": {
+        "default": "Alt+Shift+T",
+        "mac": "Option+Shift+T",
+        "web": "Alt+Shift+T"
+      }
+    },
+    {
+      "action": "FontCycle",
+      "key": {
+        "default": "Ctrl+Shift+Y",
+        "mac": "Command+Option+Shift+Y",
+        "web": "Ctrl+Shift+Y"
       }
     }
   ]
