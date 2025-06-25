@@ -137,7 +137,8 @@
       "key": {
         "default": "Ctrl+Shift+1",
         "mac": "Command+Shift+1",
-        "web": "Ctrl+Shift+1"
+        "web": "Ctrl+Shift+1",
+        "windows": "Ctrl+Shift+1"
       }
     },
     {
@@ -145,7 +146,8 @@
       "key": {
         "default": "Ctrl+Shift+2",
         "mac": "Command+Shift+2",
-        "web": "Ctrl+Shift+2"
+        "web": "Ctrl+Shift+2",
+        "windows": "Ctrl+Shift+2"
       }
     },
     {
@@ -153,7 +155,8 @@
       "key": {
         "default": "Ctrl+Alt+Shift+4",
         "mac": "Command+Option+Shift+4",
-        "web": "Ctrl+Alt+Shift+4"
+        "web": "Ctrl+Alt+Shift+4",
+        "windows": "Ctrl+Alt+Shift+4"
       }
     },
     {
@@ -161,7 +164,8 @@
       "key": {
         "default": "Alt+Shift+4",
         "mac": "Option+Shift+4",
-        "web": "Alt+Shift+4"
+        "web": "Alt+Shift+4",
+        "windows": "Alt+Shift+4"
       }
     },
     {
@@ -169,7 +173,8 @@
       "key": {
         "default": "Ctrl+Alt+Shift+5",
         "mac": "Command+Option+Shift+5",
-        "web": "Ctrl+Alt+Shift+5"
+        "web": "Ctrl+Alt+Shift+5",
+        "windows": "Ctrl+Alt+Shift+5"
       }
     },
     {
@@ -177,7 +182,8 @@
       "key": {
         "default": "Ctrl+Alt+Shift+6",
         "mac": "Command+Option+Shift+6",
-        "web": "Ctrl+Alt+Shift+6"
+        "web": "Ctrl+Alt+Shift+6",
+        "windows": "Ctrl+Alt+Shift+6"
       }
     },
     {
@@ -185,7 +191,8 @@
       "key": {
         "default": "Alt+Shift+M",
         "mac": "Option+Shift+M",
-        "web": "Alt+Shift+M"
+        "web": "Alt+Shift+M",
+        "windows": "Alt+Shift+M"
       }
     },
     {
@@ -193,7 +200,8 @@
       "key": {
         "default": "Ctrl+Alt+Shift+Y",
         "mac": "Command+Option+Shift+Y",
-        "web": "Ctrl+Alt+Shift+Y"
+        "web": "Ctrl+Alt+Shift+Y",
+        "windows": "Ctrl+Alt+Shift+Y"
       }
     },
     {
@@ -201,7 +209,8 @@
       "key": {
         "default": "Ctrl+,",
         "mac": "Ctrl+,",
-        "web": "Ctrl+,"
+        "web": "Ctrl+,",
+        "windows": "Ctrl+,"
       }
     },
     {
@@ -209,7 +218,8 @@
       "key": {
         "default": "Ctrl+.",
         "mac": "Ctrl+.",
-        "web": "Ctrl+."
+        "web": "Ctrl+.",
+        "windows": "Ctrl+."
       }
     },
     {
@@ -217,7 +227,8 @@
       "key": {
         "default": "Ctrl+Alt+K",
         "mac": "Command+Option+K",
-        "web": "Ctrl+Alt+K"
+        "web": "Ctrl+Alt+K",
+        "windows": "Ctrl+Alt+K"
       }
     },
     {
@@ -225,7 +236,8 @@
       "key": {
         "default": "Alt+Shift+F",
         "mac": "Option+Shift+F",
-        "web": "Alt+Shift+F"
+        "web": "Alt+Shift+F",
+        "windows": "Alt+Shift+F"
       }
     },
     {
@@ -233,70 +245,71 @@
       "key": {
         "default": "Alt+Shift+K",
         "mac": "Option+Shift+K",
-        "web": "Alt+Shift+K"
+        "web": "Alt+Shift+K",
+        "windows": "Alt+Shift+K"
       }
     },
     {
       "action": "OuterBorderCycle",
       "key": {
-        "default": "Shift+Option+O",
+        "default": "Shift+Alt+O",
         "mac": "Shift+Option+O",
-        "windows": "Shift+Option+O",
-        "web": "Shift+Option+O"
+        "windows": "Shift+Alt+O",
+        "web": "Shift+Alt+O"
       }
     },
     {
       "action": "InnerBorderCycle",
       "key": {
-        "default": "Shift+Option+I",
+        "default": "Shift+Alt+I",
         "mac": "Shift+Option+I",
-        "windows": "Shift+Option+I",
-        "web": "Shift+Option+I"
+        "windows": "Shift+Alt+I",
+        "web": "Shift+Alt+I"
       }
     },
     {
       "action": "TopBorderCycle",
       "key": {
-        "default": "Shift+Option+W",
+        "default": "Shift+Alt+W",
         "mac": "Shift+Option+W",
-        "windows": "Shift+Option+W",
-        "web": "Shift+Option+W"
+        "windows": "Shift+Alt+W",
+        "web": "Shift+Alt+W"
       }
     },
     {
       "action": "RightBorderCycle",
       "key": {
-        "default": "Shift+Option+A",
+        "default": "Shift+Alt+A",
         "mac": "Shift+Option+A",
-        "windows": "Shift+Option+A",
-        "web": "Shift+Option+A"
+        "windows": "Shift+Alt+A",
+        "web": "Shift+Alt+A"
       }
     },
     {
       "action": "BottomBorderCycle",
       "key": {
-        "default": "Shift+Option+S",
+        "default": "Shift+Alt+S",
         "mac": "Shift+Option+S",
-        "windows": "Shift+Option+S",
-        "web": "Shift+Option+S"
+        "windows": "Shift+Alt+S",
+        "web": "Shift+Alt+S"
       }
     },
     {
       "action": "LeftBorderCycle",
       "key": {
-        "default": "Shift+Option+D",
+        "default": "Shift+Alt+D",
         "mac": "Shift+Option+D",
-        "windows": "Shift+Option+D",
-        "web": "Shift+Option+D"
+        "windows": "Shift+Alt+D",
+        "web": "Shift+Alt+D"
       }
     },
     {
       "action": "RemoveBorder",
       "key": {
-        "default": "Shift+Option+R",
+        "default": "Shift+Alt+R",
         "mac": "Shift+Option+R",
-        "windows": "Shift+Option+R",
-        "web": "Shift+Option+R"
+        "windows": "Shift+Alt+R",
+        "web": "Shift+Alt+R"
       }
     },
     {
@@ -304,7 +317,8 @@
       "key": {
         "default": "Ctrl+Shift+F",
         "mac": "Command+Option+Shift+F",
-        "web": "Ctrl+Shift+F"
+        "web": "Ctrl+Shift+F",
+        "windows": "Ctrl+Shift+F"
       }
     },
     {
@@ -312,7 +326,8 @@
       "key": {
         "default": "Ctrl+Shift+G",
         "mac": "Command+Option+Shift+G",
-        "web": "Ctrl+Shift+G"
+        "web": "Ctrl+Shift+G",
+        "windows": "Ctrl+Shift+G"
       }
     },
     {
@@ -320,7 +335,8 @@
       "key": {
         "default": "Ctrl+Shift+W",
         "mac": "Command+Option+Shift+W",
-        "web": "Ctrl+Shift+W"
+        "web": "Ctrl+Shift+W",
+        "windows": "Ctrl+Shift+W"
       }
     },
     {
@@ -328,7 +344,8 @@
       "key": {
         "default": "Ctrl+Shift+L",
         "mac": "Command+Option+Shift+L",
-        "web": "Ctrl+Shift+L"
+        "web": "Ctrl+Shift+L",
+        "windows": "Ctrl+Shift+L"
       }
     },
     {
@@ -336,7 +353,8 @@
       "key": {
         "default": "Alt+Shift+T",
         "mac": "Option+Shift+T",
-        "web": "Alt+Shift+T"
+        "web": "Alt+Shift+T",
+        "windows": "Alt+Shift+T"
       }
     },
     {
@@ -344,7 +362,8 @@
       "key": {
         "default": "Ctrl+Shift+Y",
         "mac": "Option+Shift+Y",
-        "web": "Ctrl+Shift+Y"
+        "web": "Ctrl+Shift+Y",
+        "windows": "Ctrl+Shift+Y"
       }
     }
   ]
