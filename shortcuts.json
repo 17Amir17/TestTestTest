@@ -205,6 +205,24 @@
       }
     },
     {
+      "action": "IncreaseDecimal",
+      "key": {
+        "default": "Ctrl+Shift+Plus",
+        "mac": "Command+Shift+Plus",
+        "web": "Ctrl+Shift+Plus",
+        "windows": "Ctrl+Shift+Plus"
+      }
+    },
+    {
+      "action": "DecreaseDecimals",
+      "key": {
+        "default": "Ctrl+Shift+Minus",
+        "mac": "Command+Shift+Minus",
+        "web": "Ctrl+Shift+Minus",
+        "windows": "Ctrl+Shift+Minus"
+      }
+    },
+    {
       "action": "BlueBlackToggle",
       "key": {
         "default": "Ctrl+Alt+K",
