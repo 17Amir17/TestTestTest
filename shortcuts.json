@@ -36,6 +36,16 @@
       "name": "Binary Cycle"
     },
     {
+      "id": "IncreaseDecimal",
+      "type": "ExecuteFunction",
+      "name": "Increase Decimal"
+    },
+    {
+      "id": "DecreaseDecimals",
+      "type": "ExecuteFunction",
+      "name": "Decrease Decimals"
+    },
+    {
       "id": "FootnoteCycle",
       "type": "ExecuteFunction",
       "name": "Footnote Cycle"
@@ -56,9 +66,34 @@
       "name": "Fill Color Cycle"
     },
     {
-      "id": "BorderColorCycle",
+      "id": "OuterBorderCycle",
       "type": "ExecuteFunction",
-      "name": "Border Color Cycle"
+      "name": "Outer Border Cycle"
+    },
+    {
+      "id": "InnerBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Inner Border Cycle"
+    },
+    {
+      "id": "TopBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Top Border Cycle"
+    },
+    {
+      "id": "RightBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Right Border Cycle"
+    },
+    {
+      "id": "BottomBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Bottom Border Cycle"
+    },
+    {
+      "id": "LeftBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Left Border Cycle"
     },
     {
       "id": "IncreaseFont",
@@ -157,6 +192,22 @@
       }
     },
     {
+      "action": "IncreaseDecimal",
+      "key": {
+        "default": "Ctrl+,",
+        "mac": "Ctrl+,",
+        "web": "Ctrl+,"
+      }
+    },
+    {
+      "action": "DecreaseDecimal",
+      "key": {
+        "default": "Ctrl+.",
+        "mac": "Ctrl+.",
+        "web": "Ctrl+."
+      }
+    },
+    {
       "action": "BlueBlackToggle",
       "key": {
         "default": "Ctrl+Alt+K",
@@ -181,11 +232,59 @@
       }
     },
     {
-      "action": "BorderColorCycle",
+      "action": "OuterBorderCycle",
       "key": {
-        "default": "Alt+Shift+B",
-        "mac": "Option+Shift+B",
-        "web": "Alt+Shift+B"
+        "default": "Ctrl+Shift+7",
+        "mac": "Cmmand+Shift+7",
+        "web": "Ctrl+Shift+7"
+      }
+    },
+    {
+      "action": "InnerBorderCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+7",
+        "mac": "Command+Option+Shift+7",
+        "web": "Ctrl+Shift+7"
+      }
+    },
+    {
+      "action": "TopBorderCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+Up",
+        "mac": "Command+Option+Shift+Up",
+        "web": "Ctrl+Alt+Shift+Up"
+      }
+    },
+    {
+      "action": "RightBorderCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+Right",
+        "mac": "Command+Option+Shift+Right",
+        "web": "Ctrl+Alt+Shift+Right"
+      }
+    },
+    {
+      "action": "BottomBorderCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+Down",
+        "mac": "Command+Option+Shift+Down",
+        "web": "Ctrl+Alt+Shift+Down"
+      }
+    },
+    {
+      "action": "LeftBorderCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+Left",
+        "mac": "Command+Option+Shift+Left",
+        "web": "Ctrl+Alt+Shift+Left"
+      }
+    },
+    {
+      "action": "RemoveBorder",
+      "key": {
+        "default": "Ctrl+Shift+_",
+        "mac": "Command+Shift+_",
+        "web": "Ctrl+Shift+_"
       }
     },
     {
