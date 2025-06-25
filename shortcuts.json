@@ -270,37 +270,37 @@
     {
       "action": "TopBorderCycle",
       "key": {
-        "default": "Shift+Alt+W",
-        "mac": "Shift+Option+W",
-        "windows": "Shift+Alt+W",
-        "web": "Shift+Alt+W"
+        "default": "Shift+Alt+Up",
+        "mac": "Shift+Option+Up",
+        "windows": "Shift+Alt+Up",
+        "web": "Shift+Alt+Up"
       }
     },
     {
       "action": "RightBorderCycle",
       "key": {
-        "default": "Shift+Alt+A",
-        "mac": "Shift+Option+A",
-        "windows": "Shift+Alt+A",
-        "web": "Shift+Alt+A"
+        "default": "Shift+Alt+Right",
+        "mac": "Shift+Option+Right",
+        "windows": "Shift+Alt+Right",
+        "web": "Shift+Alt+Right"
       }
     },
     {
       "action": "BottomBorderCycle",
       "key": {
-        "default": "Shift+Alt+S",
-        "mac": "Shift+Option+S",
-        "windows": "Shift+Alt+S",
-        "web": "Shift+Alt+S"
+        "default": "Shift+Alt+Down",
+        "mac": "Shift+Option+Down",
+        "windows": "Shift+Alt+Down",
+        "web": "Shift+Alt+Down"
       }
     },
     {
       "action": "LeftBorderCycle",
       "key": {
-        "default": "Shift+Alt+D",
-        "mac": "Shift+Option+D",
-        "windows": "Shift+Alt+D",
-        "web": "Shift+Alt+D"
+        "default": "Shift+Alt+Left",
+        "mac": "Shift+Option+Left",
+        "windows": "Shift+Alt+Left",
+        "web": "Shift+Alt+Left"
       }
     },
     {
