@@ -239,56 +239,63 @@
     {
       "action": "OuterBorderCycle",
       "key": {
-        "default": "Ctrl+Shift+7",
+        "default": "Shift+Option+B",
         "mac": "Shift+Option+B",
+        "windows": "Shift+Option+B",
         "web": "Ctrl+Shift+7"
       }
     },
     {
       "action": "InnerBorderCycle",
       "key": {
-        "default": "Ctrl+Alt+Shift+7",
+        "default": "Shift+Option+B+I",
         "mac": "Shift+Option+B+I",
+        "windows": "Shift+Option+B+I",
         "web": "Ctrl+Alt+Shift+7"
       }
     },
     {
       "action": "TopBorderCycle",
       "key": {
-        "default": "Ctrl+Alt+Shift+Up",
+        "default": "Shift+Option+B+W",
         "mac": "Shift+Option+B+W",
+        "windows": "Shift+Option+B+W",
         "web": "Ctrl+Alt+Shift+Up"
       }
     },
     {
       "action": "RightBorderCycle",
       "key": {
-        "default": "Ctrl+Alt+Shift+Right",
+        "default": "Shift+Option+B+A",
         "mac": "Shift+Option+B+A",
+        "windows": "Shift+Option+B+A",
         "web": "Ctrl+Alt+Shift+Right"
       }
     },
     {
       "action": "BottomBorderCycle",
       "key": {
-        "default": "Ctrl+Alt+Shift+Down",
+        "default": "Shift+Option+B+S",
         "mac": "Shift+Option+B+S",
+        "windows": "Shift+Option+B+S",
         "web": "Ctrl+Alt+Shift+Down"
       }
     },
     {
       "action": "LeftBorderCycle",
       "key": {
-        "default": "Ctrl+Alt+Shift+Left",
+        "default": "Shift+Option+B+D",
         "mac": "Shift+Option+B+D",
+        "windows": "Shift+Option+B+D",
         "web": "Ctrl+Alt+Shift+Left"
       }
     },
     {
       "action": "RemoveBorder",
       "key": {
-        "default": "Ctrl+Shift+_",
+        "default": "Shift+Option+B+R",
         "mac": "Shift+Option+B+R",
+        "windows": "Shift+Option+B+R",
         "web": "Ctrl+Shift+_"
       }
     },
