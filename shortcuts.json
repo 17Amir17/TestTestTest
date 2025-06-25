@@ -96,6 +96,11 @@
       "name": "Left Border Cycle"
     },
     {
+      "id": "RemoveBorder",
+      "type": "ExecuteFunction",
+      "name": "Remove All Borders"
+    },
+    {
       "id": "IncreaseFont",
       "type": "ExecuteFunction",
       "name": "Increase Font"
@@ -200,7 +205,7 @@
       }
     },
     {
-      "action": "DecreaseDecimal",
+      "action": "DecreaseDecimals",
       "key": {
         "default": "Ctrl+.",
         "mac": "Ctrl+.",
@@ -235,7 +240,7 @@
       "action": "OuterBorderCycle",
       "key": {
         "default": "Ctrl+Shift+7",
-        "mac": "Cmmand+Shift+7",
+        "mac": "Command+Shift+7",
         "web": "Ctrl+Shift+7"
       }
     },
@@ -314,9 +319,9 @@
     {
       "action": "RemoveGridlines",
       "key": {
-        "default": "Ctrl+Shift+G",
-        "mac": "Option+Shift+G",
-        "web": "Ctrl+Shift+G"
+        "default": "Ctrl+Shift+L",
+        "mac": "Command+Option+Shift+L",
+        "web": "Ctrl+Shift+L"
       }
     },
     {
