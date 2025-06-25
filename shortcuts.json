@@ -239,64 +239,64 @@
     {
       "action": "OuterBorderCycle",
       "key": {
-        "default": "Shift+Option+B",
-        "mac": "Shift+Option+B",
-        "windows": "Shift+Option+B",
-        "web": "Ctrl+Shift+7"
+        "default": "Shift+Option+O",
+        "mac": "Shift+Option+O",
+        "windows": "Shift+Option+O",
+        "web": "Shift+Option+O"
       }
     },
     {
       "action": "InnerBorderCycle",
       "key": {
-        "default": "Shift+Option+B+I",
-        "mac": "Shift+Option+B+I",
-        "windows": "Shift+Option+B+I",
-        "web": "Ctrl+Alt+Shift+7"
+        "default": "Shift+Option+I",
+        "mac": "Shift+Option+I",
+        "windows": "Shift+Option+I",
+        "web": "Shift+Option+I"
       }
     },
     {
       "action": "TopBorderCycle",
       "key": {
-        "default": "Shift+Option+B+W",
-        "mac": "Shift+Option+B+W",
-        "windows": "Shift+Option+B+W",
-        "web": "Ctrl+Alt+Shift+Up"
+        "default": "Shift+Option+W",
+        "mac": "Shift+Option+W",
+        "windows": "Shift+Option+W",
+        "web": "Shift+Option+W"
       }
     },
     {
       "action": "RightBorderCycle",
       "key": {
-        "default": "Shift+Option+B+A",
-        "mac": "Shift+Option+B+A",
-        "windows": "Shift+Option+B+A",
-        "web": "Ctrl+Alt+Shift+Right"
+        "default": "Shift+Option+A",
+        "mac": "Shift+Option+A",
+        "windows": "Shift+Option+A",
+        "web": "Shift+Option+A"
       }
     },
     {
       "action": "BottomBorderCycle",
       "key": {
-        "default": "Shift+Option+B+S",
-        "mac": "Shift+Option+B+S",
-        "windows": "Shift+Option+B+S",
-        "web": "Ctrl+Alt+Shift+Down"
+        "default": "Shift+Option+S",
+        "mac": "Shift+Option+S",
+        "windows": "Shift+Option+S",
+        "web": "Shift+Option+S"
       }
     },
     {
       "action": "LeftBorderCycle",
       "key": {
-        "default": "Shift+Option+B+D",
-        "mac": "Shift+Option+B+D",
-        "windows": "Shift+Option+B+D",
-        "web": "Ctrl+Alt+Shift+Left"
+        "default": "Shift+Option+D",
+        "mac": "Shift+Option+D",
+        "windows": "Shift+Option+D",
+        "web": "Shift+Option+D"
       }
     },
     {
       "action": "RemoveBorder",
       "key": {
-        "default": "Shift+Option+B+R",
-        "mac": "Shift+Option+B+R",
-        "windows": "Shift+Option+B+R",
-        "web": "Ctrl+Shift+_"
+        "default": "Shift+Option+R",
+        "mac": "Shift+Option+R",
+        "windows": "Shift+Option+R",
+        "web": "Shift+Option+R"
       }
     },
     {
