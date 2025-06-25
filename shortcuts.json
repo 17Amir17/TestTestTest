@@ -207,19 +207,19 @@
     {
       "action": "IncreaseDecimal",
       "key": {
-        "default": "Ctrl+Shift++",
-        "mac": "Command+Shift++",
-        "web": "Ctrl+Shift++",
-        "windows": "Ctrl+Shift++"
+        "default": "Ctrl+Shift+D",
+        "mac": "Command+Shift+D",
+        "web": "Ctrl+Shift+D",
+        "windows": "Ctrl+Shift+D"
       }
     },
     {
       "action": "DecreaseDecimals",
       "key": {
-        "default": "Ctrl+Shift+-",
-        "mac": "Command+Shift+-",
-        "web": "Ctrl+Shift+-",
-        "windows": "Ctrl+Shift+-"
+        "default": "Ctrl+Shift+S",
+        "mac": "Command+Shift+S",
+        "web": "Ctrl+Shift+S",
+        "windows": "Ctrl+Shift+S"
       }
     },
     {
